@@ -214,7 +214,7 @@ export default function Homepage() {
 
              <p className="text-[#333333] font-[500px] text-xl text-center mt-[10px]">
               We stay up to date with the latest technology trends and offer innovative solutions
-              that help you stay ahead in competition
+              that help  <br />  you stay ahead in competition
              </p>
 
           </div>
