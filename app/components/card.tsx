@@ -7,7 +7,7 @@ export default function Card() {
     <div className="w-[308px] h-[223px] rounded-[15px] p-[3px] bg-gradient-to-r from-[#7CC140] to-[#388FCB]  ">
   <div className="w-full h-full rounded-[12px] pt-[29px] pb-[29px] pl-[31px] pr-[31px]flex justify-center  items-center   text-center flex-col  bg-custom-gradient ">
     <div  className="ml-[80px]">
-    <Image src={"/iphone.jpeg.png"} alt=" " width={91} height={109}/>
+    <Image src={"/iphone.jpeg"} alt=" " width={91} height={109}/>
     </div>
     
  

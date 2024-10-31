@@ -26,7 +26,7 @@ const handelnav = ()=>{
 
 <div>
   <Image src={"/wifi.jpeg.png"} alt="" width={28} height={28} className="ml-[75px] mb-[-10px] pulse-animation"/>
-<Image src={"/Vector.jpeg"} alt="" width={82} height={40}/> <Link href={""}></Link>
+<Image src={"/Vector.jpeg.png"} alt="" width={82} height={40}/> <Link href={""}></Link>
 </div>
 
 
