@@ -212,7 +212,7 @@ export default function Homepage() {
               <span className="text-[#388FCB] pt-5">Stock</span>
                 </div>
 
-             <p className="text-[#333333] font-semibold text-xl text-center mt-[10px]">
+             <p className="text-[#333333] font-semibold text-xl text-center mt-[20px]">
               We stay up to date with the latest technology trends and offer innovative solutions
               that help  <br />  you stay ahead in competition
              </p>
