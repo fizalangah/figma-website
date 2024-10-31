@@ -14,8 +14,8 @@ export default function Top() {
                 <Link href={""} className="flex gap-[6px]"></Link> <span className="text-xl"><TbPhone /></span>  0123456789
             </div>
             <div className="flex gap-3" >
-                <button className="w-[80px]h-[18px] border-r-[1px] pt-[6px]  pb-[6px] gap-2 font-[500] text-xs text-[#ffffff] pr-3">Perivacy Policy</button>
-                <button className="w-[124px] h-[18px] font-[500] text-xs text-[#ffffff] pb-[6px]  pt-[8px]"> Terms and Condition</button>
+                <button className="w-[80px]h-[18px] border-r-[1px] pt-[6px]  pb-[6px] gap-2 font-[500] text-xs text-[#ffffff] pr-4">Perivacy Policy</button>
+                <button className="w-[154px] h-[18px] font-[500] text-xs text-[#ffffff] pb-[6px]  pt-[8px]"> Terms and Condition</button>
             </div>
 
         </div>
